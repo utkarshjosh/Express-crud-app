@@ -12,21 +12,20 @@ An Express app for user management
 
 # Deployed on Heroku
 <a href="https://mysterious-dusk-64867.herokuapp.com/"><strong>Go to live Site</strong></a> </br>
-<br />
+
 
  
   
   
   
-    <br />
-    <a href="https://https://github.com/utkarshjosh/Express-crud-app"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://https://github.com/utkarshjosh/Express-crud-app">View Demo</a>
-    ·
-    <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues">Report Bug</a>
-    ·
-    <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues	">Request Feature</a>
+    
+   
+   
+    <a href="https://https://github.com/utkarshjosh/Express-crud-app">View Demo.</a>
+
+    <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues">Report Bug.</a>
+   
+    <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues	">Request Feature.</a>
 
 
 
