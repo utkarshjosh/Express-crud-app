@@ -12,11 +12,6 @@ An Express app for user management
 
 # Deployed on Heroku
 <a href="https://mysterious-dusk-64867.herokuapp.com/"><strong>Go to live Site</strong></a> </br>
-
-
- 
-  
-  
   
  <p align="center">
   <img src="screenshot.png" width="1280" height="720" title="ScreenShot of live Web-app">
@@ -28,9 +23,6 @@ An Express app for user management
     <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues">Report Bug.</a> -->
    
     <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues	">Request Feature.</a> 
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 A user management system, that runs on node.js and uses Express.js. The web-app connects itself to a MongoDB atlas Database and manages CRUD - CREATE, READ, UPDATE, DELETE operations over it. 
