@@ -18,14 +18,16 @@ An Express app for user management
   
   
   
-    
-   
-   
+ <p align="center">
+  <img src="screenshot.png" width="350" title="ScreenShot of live Web-app">
+  <img src="screenshot.png" width="350" alt="ScreenShot of live Web-app">
+</p>
+<!--    
     <a href="https://https://github.com/utkarshjosh/Express-crud-app">View Demo.</a>
 
-    <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues">Report Bug.</a>
+    <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues">Report Bug.</a> -->
    
-    <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues	">Request Feature.</a>
+    <a href="https://https://github.com/utkarshjosh/Express-crud-app/issues	">Request Feature.</a> 
 
 
 
